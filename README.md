@@ -1,14 +1,29 @@
-# Auto Locator Pro  
-[![Latest Release](https://img.shields.io/github/v/release/freddycastro/auto-locator?sort=semver)](https://github.com/freddycastro/auto-locator/releases/latest)
+# Auto Locator Pro
 
-Find it. Log it. Sell it. VIN scanning, GPS tracking, and inventory logging for dealerships.
-[![Latest Release](https://img.shields.io/github/v/release/<f3-auto-locator-pro>/<your-repo>?sort=semver)](https://github.com/<f3-auto-locator-pro>/<[your-repo](https://github.com/fernandocastrosenior-ux/F3-Auto-Locate-Pro)>/releases/latest)
-[![License](https://img.shields.io/github/license/<f3-auto-locator-pro>/<(https:/fernandocastrosenior-ux/F3-Auto-Locate-Pro)>)](https://github.com/<f3-auto-locator-pro>/<your-repo>/blob/main/LICENSE)
-[![Build](https://github.com/<your-username>/<your-repo>/actions/workflows/build.yml/badge.svg)](https://github.com/<f3-auto-locator-pro>/fernandocastrosenior-ux/F3-Auto-Locate-Pro)>/actions)
-# Auto Locator Pro  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/fernandocastrosenior-ux/F3-Auto-Locate-Pro)
+![License](https://img.shields.io/github/license/fernandocastrosenior-ux/F3-Auto-Locate-Pro)
+![Build Status](https://github.com/fernandocastrosenior-ux/F3-Auto-Locate-Pro/actions/workflows/main.yml/badge.svg)
 
-[![Latest Release](https://img.shields.io/github/v/release/freddycastro/auto-locator?sort=semver)](https://github.com/freddycastro/auto-locator/releases/latest)
-[![License](https://img.shields.io/github/license/freddycastro/auto-locator)](https://github.com/freddycastro/auto-locator/blob/main/LICENSE)
-[![Build](https://github.com/freddycastro/auto-locator/actions/workflows/build.yml/badge.svg)](https://github.com/freddycastro/auto-locator/actions)
+---
 
-Find it. Log it. Sell it. VIN scanning, GPS tracking, and inventory logging for dealerships.
+## 🚗 Overview
+**Auto Locator Pro** helps dealerships manage inventory faster and smarter.  
+It combines **VIN scanning, GPS tracking, and inventory logging** so you can find, log, and sell vehicles without wasting time.
+
+**Tagline:** *Find it. Log it. Sell it.*
+
+---
+
+## ✨ Features
+- 📸 **VIN Scanner** – scan a VIN to instantly pull up vehicle info.  
+- 📍 **GPS Tracking** – log and update vehicle locations across the lot.  
+- 📊 **Inventory Logging** – track mileage, condition, and notes in real-time.  
+- 🔔 **Alerts & Reports** – never lose track of a unit again.  
+
+---
+
+## 📦 Installation
+Clone the repo:
+```bash
+git clone https://github.com/fernandocastrosenior-ux/F3-Auto-Locate-Pro.git
+cd F3-Auto-Locate-Pro
