@@ -1,4 +1,5 @@
-auto-locator-pro/     ← root (your main folder)
+auto-locator-pro/← root
+vercel.json 
 ├── LICENSE           ← legal stuff
 ├── README.md         ← docs / project description
 ├── package.json      ← tells npm/Vercel how to run/build .gitignore# dependencies
